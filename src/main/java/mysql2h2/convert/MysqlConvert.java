@@ -13,7 +13,8 @@ public class MysqlConvert {
 
 	public static void main(String[] args) throws IOException {
 		//input sql file ddl
-		 String fileName="D:\\workspace-master\\common-test\\src\\main\\resources\\clearing\\db\\data.sql";
+		// String fileName="D:\\workspace-master\\common-test\\src\\main\\resources\\shopxx\\shopxxb2b2c.sql";
+		 String fileName="D:\\workspace-master\\shopxxb2b2c.sql";
 		//ouput sql file ddl
 		 String outFile="data2.sql";
 		 
